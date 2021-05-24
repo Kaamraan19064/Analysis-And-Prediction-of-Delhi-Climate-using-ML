@@ -2,7 +2,7 @@
 
 # Usage 
 
-All source code is in the Code folder. Most of our code is in the form of jupyter notebooks
+All source code is in the Code folder. Most of our code is in Python.
 
 It contains three files as follows:
 
